@@ -8,7 +8,7 @@ account, shows them to your whole team in one inbox, and sends your answers back
 same provider, from your own domain. You keep your provider, your domains and your sending
 reputation.
 
-<img src="screenshot.png" alt="The HelloBox inbox: four mailboxes on Amazon SES, Postmark, Mailgun and Resend, a conversation assigned to a teammate with an internal note, and a reply sent through Amazon SES" width="100%">
+<img src="screenshot.png" alt="The HelloBox inbox: shared mailboxes for hello@, support@, billing@ and news@, a conversation assigned to a teammate with an internal note, and an AI-drafted reply" width="100%">
 
 ### What it does
 
